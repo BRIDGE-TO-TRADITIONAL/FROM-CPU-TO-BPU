@@ -1,2 +1,2 @@
 # FROM-CPU-TO-BPU
-From Centeal  processing  unit  to  Brain  Processing  unit
+From Central  processing  unit  to  Brain  Processing  unit
